@@ -1,2 +1,3 @@
 # Apnacollege-demo
-this is my first grepo
+This is my first repository.
+Author -Shwet Anand 
